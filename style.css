@@ -1,0 +1,315 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  /* border: 2px solid firebrick; */
+  background-color: #226a81;
+  height: 55px;
+  width: 1349px;
+  display: block;
+}
+
+.box1 {
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  width: 1140px;
+  padding: 15px 30px 15px 30px;
+  font-family: Poppins, sans-sarif;
+  font-size: 1.2rem;
+  color: #ffffff;
+  font-weight: 700;
+  /* margin-left: 10%; */
+}
+
+/* ................................................................................ */
+
+.important {
+  /* border: 2px solid darkblue; */
+  margin-left: 80px;
+  margin-right: 140px;
+}
+
+.main {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 51px;
+  width: 1180px;
+  margin-top: 20px;
+  padding: 0 20px 0 20px;
+}
+
+.main1 {
+  /* border: 2px solid black; */
+  height: 36.8125px;
+  width: 200px;
+}
+
+.img1 {
+  height: 36.8125px;
+  width: 200px;
+}
+
+ul {
+  display: flex;
+}
+
+.a-link {
+  font-family: Poppins, sans-sarif;
+  /* border: 2px solid black; */
+  font-size: 1.2rem;
+  color: #183b56;
+  height: 25px;
+  width: 70.4219px;
+  text-decoration: none solid rgb(24, 59, 86);
+  text-align: left;
+  cursor: pointer;
+  margin: 1rem;
+  margin-top: 25px;
+}
+
+.button-Signin {
+  cursor: pointer;
+  height: 51px;
+  width: 103.891px;
+  border: 1px solid #577592;
+  padding: 12px 24px 12px 24px;
+  background-color: #ffffff;
+  color: #183b56;
+  font-family: Poppins, sans-sarif;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.button-Signin:hover {
+  color: #2294ed;
+  border-color: #2294ed;
+}
+
+.button-Signup {
+  height: 49px;
+  width: 108.516px;
+  padding: 12px 24px 12px 24px;
+  background-color: #2294ed;
+  font-family: Poppins, sans-sarif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.button-Signup:hover {
+  background-color: #306892;
+}
+
+/* .......................................................................................... */
+
+.main-container {
+  display: flex;
+  /* border: 2px solid rebeccapurple; */
+  height: 406.438px;
+  width: 1180px;
+  padding: 0 20px 0 20px;
+  margin-top: 30px;
+}
+
+.main-container1 {
+  /* border: 2px solid gold; */
+  height: 247.391px;
+  width: 544.375px;
+  margin: 33px;
+}
+
+.heading {
+  /* border: 2px solid saddlebrown; */
+  height: 72px;
+  width: 544.375px;
+  margin: 120px 0 0 0;
+  font-family: Poppins, sans-sarif;
+  color: #183b56;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.para {
+  /* border: 2px solid red; */
+  height: 86.3906px;
+  width: 544.375px;
+  color: #577592;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  line-height: 28.8px;
+}
+
+.get-started {
+  /* border: 2px solid firebrick; */
+  height: 49px;
+  width: 139.641px;
+  margin: 20px 0 0 0;
+  padding: 12px 24px 12px 24px;
+  cursor: pointer;
+  background-color: #2294ed;
+  font-family: Poppins, sans-sarif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  border: none;
+
+  border-radius: 5px;
+}
+
+.get-started:hover {
+  background-color: #306892;
+}
+
+.main-container2 img {
+  /* border: 2px solid firebrick; */
+  height: 399.438px;
+  width: 545.625px;
+}
+
+/* ......................................................................................... */
+
+.sponcor {
+  /* border: 2px solid black; */
+  height: 131px;
+  width: 1180px;
+  padding: 0 20px 0 20px;
+}
+
+.paragraph {
+  /* border: 2px solid forestgreen; */
+  height: 25px;
+  width: 1140px;
+  font-family: Poppins, sans-sarif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 30px 0 30px 0;
+  text-align: center;
+  color: #183b56;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-evenly;
+  /* border: 2px solid salmon; */
+  height: 46px;
+  width: 1140px;
+}
+
+.logo1 {
+  height: 46px;
+  width: 94.4062px;
+}
+
+.logo2 {
+  height: 46px;
+  width: 105.312px;
+}
+
+.logo3 {
+  height: 46px;
+  width: 169.469px;
+}
+
+.logo4 {
+  height: 46px;
+  width: 145.25px;
+}
+
+.logo5 {
+  height: 46px;
+  width: 44.7812px;
+}
+
+.logo6 {
+  height: 46px;
+  width: 223.547px;
+}
+
+.logo7 {
+  height: 46px;
+  width: 104.094px;
+}
+
+/* .................................................................................................. */
+
+.new-main {
+  border: 2px solid greenyellow;
+  height: 706.188px;
+  width: 1180px;
+  padding: 0 20px 0 20px;
+}
+
+.head2 {
+  text-align: center;
+  border: 2px solid darkblue;
+  height: 48px;
+  font-family: Poppins, sans-sarif;
+  color: #183b56;
+  font-size: 32px;
+  font-weight: 700;
+  width: 1140px;
+  margin: 0 0 20px 0;
+}
+
+.btn {
+  border: 2px solid green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn button {
+  border: 2px solid firebrick;
+  height: 51px;
+  width: 194.125px;
+  border: 1px solid #183b56;
+  color: #183b56;
+  padding: 12px 24px 12px 24px;
+  font-family: Poppins, sans-sarif;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: transparent;
+}
+
+.btn button:hover {
+  color: #2294ed;
+  border-color: #2294ed;
+}
+
+.features-area {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  border: 2px solid gold;
+  height: 547.188px;
+  width: 1140px;
+  margin: 20px 0 0 0;
+}
+
+.features-card {
+  border: 2px solid firebrick;
+  height: 263.594px;
+  width: 342px;
+}
+
+.features-card img {
+  border: 2px solid green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 60px;
+}
