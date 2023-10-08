@@ -3,6 +3,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Comfortaa", cursive;
+  font-family: "Mooli", sans-serif;
+  font-family: "Playfair Display", serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .box {
@@ -21,11 +27,10 @@
   height: 55px;
   width: 1140px;
   padding: 15px 30px 15px 30px;
-  font-family: Poppins, sans-sarif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #ffffff;
   font-weight: 700;
-  /* margin-left: 10%; */
+  margin-left: 10%;
 }
 
 /* ................................................................................ */
@@ -63,9 +68,8 @@ ul {
 }
 
 .a-link {
-  font-family: Poppins, sans-sarif;
   /* border: 2px solid black; */
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #183b56;
   height: 25px;
   width: 70.4219px;
@@ -84,8 +88,7 @@ ul {
   padding: 12px 24px 12px 24px;
   background-color: #ffffff;
   color: #183b56;
-  font-family: Poppins, sans-sarif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   margin: 10px;
   border-radius: 5px;
@@ -101,8 +104,7 @@ ul {
   width: 108.516px;
   padding: 12px 24px 12px 24px;
   background-color: #2294ed;
-  font-family: Poppins, sans-sarif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   color: #ffffff;
   margin: 10px;
@@ -137,9 +139,8 @@ ul {
   height: 72px;
   width: 544.375px;
   margin: 120px 0 0 0;
-  font-family: Poppins, sans-sarif;
   color: #183b56;
-  font-size: 48px;
+  font-size: 3rem;
   font-weight: 700;
 }
 
@@ -148,7 +149,6 @@ ul {
   height: 86.3906px;
   width: 544.375px;
   color: #577592;
-  font-family: Roboto, sans-serif;
   font-size: 20px;
   line-height: 28.8px;
 }
@@ -161,8 +161,7 @@ ul {
   padding: 12px 24px 12px 24px;
   cursor: pointer;
   background-color: #2294ed;
-  font-family: Poppins, sans-sarif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   color: #ffffff;
   border: none;
@@ -193,8 +192,7 @@ ul {
   /* border: 2px solid forestgreen; */
   height: 25px;
   width: 1140px;
-  font-family: Poppins, sans-sarif;
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 700;
   margin: 30px 0 30px 0;
   text-align: center;
@@ -257,9 +255,8 @@ ul {
   text-align: center;
   /* border: 2px solid darkblue; */
   height: 48px;
-  font-family: Poppins, sans-sarif;
   color: #183b56;
-  font-size: 32px;
+  font-size: 2rem;
   font-weight: 700;
   width: 1140px;
   margin: 30px 0 20px 0;
@@ -279,9 +276,8 @@ ul {
   border: 1px solid #183b56;
   color: #183b56;
   padding: 12px 24px 12px 24px;
-  font-family: Poppins, sans-sarif;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   background-color: transparent;
 }
@@ -321,7 +317,6 @@ ul {
   /* border: 2px solid red; */
   height: 35px;
   width: 152.703px;
-  font-family: Poppins, sans-sarif;
   font-size: 24px;
   font-weight: 700;
   color: #183b56;
@@ -331,7 +326,6 @@ ul {
   /* border: 2px solid firebrick; */
   height: 57.5938px;
   width: 342px;
-  font-family: Roboto, sans-serif;
   font-size: 20px;
   line-height: 28.8px;
   color: #577592;
@@ -345,8 +339,7 @@ ul {
   cursor: pointer;
   background-color: #ffffff;
   color: #183b56;
-  font-family: Poppins, sans-sarif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   margin: 10px;
   border-radius: 5px;
@@ -391,9 +384,8 @@ ul {
   /* border: 2px solid fuchsia; */
   height: 25px;
   width: 183.469px;
-  font-family: Poppins, sans-sarif;
   color: #183b56;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: bolder;
 }
 
@@ -401,7 +393,6 @@ ul {
   /* border: 2px solid violet; */
   height: 35px;
   width: 250.922px;
-  font-family: Poppins, sans-sarif;
   font-size: 24px;
   font-weight: 700;
   color: #183b56;
@@ -411,7 +402,6 @@ ul {
   /* border: 2px solid gold; */
   height: 86.3906px;
   width: 557.188px;
-  font-family: Roboto, sans-serif;
   font-size: 20px;
   line-height: 28.8px;
   color: #577592;
@@ -451,9 +441,8 @@ ul {
   /* border: 2px solid fuchsia; */
   height: 25px;
   width: 183.469px;
-  font-family: Poppins, sans-sarif;
   color: #183b56;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: bolder;
 }
 
@@ -461,7 +450,6 @@ ul {
   /* border: 2px solid violet; */
   height: 35px;
   width: 250.922px;
-  font-family: Poppins, sans-sarif;
   font-size: 24px;
   font-weight: 700;
   color: #183b56;
@@ -471,7 +459,6 @@ ul {
   /* border: 2px solid gold; */
   height: 86.3906px;
   width: 557.188px;
-  font-family: Roboto, sans-serif;
   font-size: 20px;
   line-height: 28.8px;
   color: #577592;
@@ -511,9 +498,8 @@ ul {
   /* border: 2px solid fuchsia; */
   height: 25px;
   width: 211.859px;
-  font-family: Poppins, sans-sarif;
   color: #183b56;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: bolder;
 }
 
@@ -521,7 +507,6 @@ ul {
   /* border: 2px solid violet; */
   height: 35px;
   width: 226.406px;
-  font-family: Poppins, sans-sarif;
   font-size: 24px;
   font-weight: 700;
   color: #183b56;
@@ -531,7 +516,6 @@ ul {
   /* border: 2px solid gold; */
   height: 86.3906px;
   width: 531.281px;
-  font-family: Roboto, sans-serif;
   font-size: 20px;
   line-height: 28.8px;
   color: #577592;
